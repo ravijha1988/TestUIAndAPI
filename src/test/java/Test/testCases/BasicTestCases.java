@@ -10,18 +10,11 @@ import Test.functionLibrary.CommonMethods;
 public class BasicTestCases extends AbstractTestCases{
 	
 	/*
-	 1.verify if blazedemo.com is accessible to destined users
-	2.verify if welcome message and options to provide input are available
-	3.verify the hyperlink below welcome message is not broken
-	4.verify if proper search results are displayed on selection of departure and destination city
-	5.verify if auto suggestions are working in input text fields when initials are typed
-	6.Verify if incorrect inputs like numbers or special characters are provided as input in text boxes then proper error message is displayed
-	7. Verify the error message when departure and destination city are input as same.
-	8. Verify if error and suggestion is dispayed if no inputs are provided and user clicks on Find Flights
-	8.Verify if user is navigated back to home page if it clicks on home from Flights search page.
-	9. Verify if the search results on proper input are displayed within seconds to user.
-	 
-	 
+	 1. Verify if user is able to book flight successfully on proper inputs for source and destination city. <Automated>
+	 2. Verify as to what destinations,sources and payment options, are available to user. Should be wide variety to choose from.<Automated>
+	 3. Verify if search results/Flight booking confirmation are displayed within stipulated time (quick response).
+	 4. Verify if user gets error when invalid inputs like number/same value are provided as inputs in source and destination city.
+	 5. Verify if auto suggestions are working in input text fields when initials are typed.
 	 */
 	
 	@Test

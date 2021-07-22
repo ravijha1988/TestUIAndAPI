@@ -19,6 +19,14 @@ import java.util.Map;
 
 public class APITestCases  extends AbstractTestCases{
 	
+	
+	/*
+	 1. Verify if Get Request retrieves output and content type along with response code <Automated>
+	 2. Verify if the Response is retrieved within stipulated time <Automated>
+	 3. Verify if name/id and other data inputs fetch correct outputs <Automated>
+	 4. Verify the retrieved Json response , body and header validations.
+	 */
+	
 	@Test
 	public void tcApi_1() throws Exception {
 	
