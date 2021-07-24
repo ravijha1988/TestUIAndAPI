@@ -14,3 +14,4 @@ UI Valiation-https://blazedemo.com/
 	 4. Verify if user gets error when invalid inputs like number/same value are provided as inputs in source and destination city.
 	 5. Verify if auto suggestions are working in input text fields when initials are typed.
 	 
+I could have added more validation and logging and repoting could have been improved have I had more time to complete the same. There are some pending modification for exception handling. I have completed the project in 4 hours for UI and API test. There are some needed design improvement in the framework too which could have been taken up in case more time would have been there.
